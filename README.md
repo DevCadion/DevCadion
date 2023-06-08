@@ -11,7 +11,7 @@
 <div  align="center"> 
   </div>
   
-  ![Snake animation](https://github.com/DevCadion/DevCadion/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevCadion/DevCadion/blob/output/github-contribution-grid-snake.svg)
 
   <div>
  
