@@ -9,7 +9,11 @@
 </div>
  <br>
 <div  align="center"> 
+  </div>
   
+  ![Snake animation](https://github.com/DevCadion/DevCadion/blob/output/github-contribution-grid-snake.svg)
+
+  <div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevCadion&repo=DevCadion&theme=react)](https://github.com/DevCadion/DevCadion)
 
