@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  [![Pinned Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DevCadion&repo=DevCadion&theme=react&cache_seconds=86400)](https://github.com/DevCadion/DevCadion)
+  ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
