@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://github.com/DevCadion">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevCadion&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCadion&layout=compact&langs_count=7&theme=react"/>
+    <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevCadion&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCadion&layout=compact&langs_count=7&theme=react"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="180" height="150" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding gif" />
+  <img width="200" height="150" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding gif" />
 </div>
 
 ---
